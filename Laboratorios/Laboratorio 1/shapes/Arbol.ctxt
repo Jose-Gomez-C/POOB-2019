@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Arbol
+comment0.text=\n\ @Jose\ Luis\ Gomez\ Camacho\ -\ Nikolai\ Bermudez\ Vega\n\ \n\ Esta\ clase\ reune\ las\ cualidades\ Nodos\ y\ los\ convierte\ en\ un\ arbol\ binario;\ \n\ estableciendo\ una\ jerarquia\ de\ padre\ e\ hijo.\n
+comment1.params=
+comment1.target=Arbol()
+comment2.params=dato\ color
+comment2.target=void\ insertar(int,\ java.lang.String)
+comment2.text=\n\ Metodo\ que\ se\ encarga\ de\ insertas\ cada\ objeto\ que\ nos\ llega\ con\ la\ informacion\ \n\ mas\ importante\ como\:\ dato\ y\ color.\n\ \n\ Cada\ objeto\ tiene\ una\ cierta\ posicion\ dada\ la\ jerarquia\ que\ se\ establece\ en\ el\ problema.\n
+numComments=3

@@ -1,0 +1,22 @@
+javac -d bin src\presentacion\*.java src\aplicacion\*.java (Compilar proyecto)
+java -cp bin presentacion.SeleccionGUI (Ejecutar proyecto)
+
+javac -cp junit-4.12.jar;. pruebas/<Nombre_prueba>.java -d C:\Users\2153014\Downloads\Laboratorio\seleccion\bin (Compilar pruebas desde src)
+
+java -cp junit-4.12.jar;hamcrest-core-1.3.jar;bin;. org.junit.runner.JUnitCore pruebas.<Nombre_prueba> (Ejecutar pruebas before src)
+
+md (Crea un nuevo directorio)
+cd (Accede a un directorio)
+cd.. (Se devuelve al directorio anterior)
+cd/ (Se devuelve hasta el primer directorio)
+
+Compilar proyecto:  C:\Users\ERI VEGA\Desktop\Laboratorio\seleccion>javac -d bin src\presentacion\*.java src\aplicacion\*.java
+
+Compilar Pruebas : C:\Users\ERI VEGA\Desktop\Laboratorio\seleccion\src>
+javac -cp junit-4.12.jar;. pruebas/Pruebas.java -d "C:\Users\ERI VEGA\Desktop\Laboratorio\seleccion\bin"
+
+
+Ejecutar pruebas: C:\Users\ERI VEGA\Desktop\Laboratorio\seleccion>java -cp junit-4.12.jar;hamcrest-core-1.3.jar;bin;. org.junit.runner.JUnitCore pruebas.Pruebas
+
+
+Ejecutar proyecto: C:\Users\ERI VEGA\Desktop\Laboratorio\seleccion>java -cp bin presentacion.SeleccionGUI

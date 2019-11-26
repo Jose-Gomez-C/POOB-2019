@@ -1,0 +1,12 @@
+Hola 250 0 edward
+Deportista 200 0 bella
+Avanzado 250 300 neo
+Avanzado 200 300 trinity
+Hablador 350 300 han
+Hablador 400 hola leila
+Bola 530 480 
+Bola 0 0 
+Principiante 300 150 jose
+Principiante 400 150 niko
+Cajadesalto 0 480 
+Cajadesalto 530 0 

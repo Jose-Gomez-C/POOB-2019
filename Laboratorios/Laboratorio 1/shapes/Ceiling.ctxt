@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ceiling
+comment0.text=\n\ @Jose\ Luis\ Gomez\ Camacho\ -\ Nikolai\ Bermudez\ Vega\n\ \n
+comment1.params=list\ color
+comment1.target=Ceiling(int[],\ java.lang.String)
+comment1.text=\n\ Esta\ funcion\ crea\ una\ figura\ reprentativa\ de\ techo,\n\ el\ techo\ a\ representar\ su\ longitud\ maxima\ debe\ ser\ de\ 10\ y\ los\ \n\ colores\ permitidos\ para\ el\ fondo\ son\:\n\ "white","red","black","blue","yellow","green","magenta",\n\ "gray","pink","orange"\ y\ "cyan"\ el\ ultimo\ es\ el\ recomendable\ para\ que\ \n\ no\ exista\ conflictos\ con\ el\ color\ de\ los\ numeros.\ \n
+comment2.params=layer
+comment2.target=void\ add(int)
+comment2.text=\n\ Metodo\ que\ se\ encarga\ de\ generar\ de\ a\u00F1adir\ una\ capa\ a\ nuestro\ grafo\ actual\n
+comment3.params=
+comment3.target=void\ delete()
+comment3.text=\n\ Metodo\ que\ se\ encarga\ de\ borrar\ cada\ objeto\ cuando\ el\ usuario\ lo\ desee.\n
+comment4.params=x\ y
+comment4.target=void\ move(int,\ int)
+comment4.text=\n\ Metodo\ que\ se\ encarga\ del\ movimiento\ horizontal\ (x)\ y\ vertical\ (y)\ de\ los\ objetos.\n
+comment5.params=
+comment5.target=void\ showCeiling()
+comment5.text=\n\ Metodo\ que\ hace\ visible\ el\ conjunto\ de\ objeto\ que\ tenemos\ como\ rectangulos.\n
+comment6.params=
+comment6.target=void\ showTree()
+comment6.text=\n\ Metodo\ que\ hace\ visible\ el\ arbol\ binario\ ingresado.\n
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=crearArbol
+comment0.text=\n\n\ @Jose\ Luis\ Gomez\ Camacho\ -\ Nikolai\ Bermudez\ Vega\n
+comment1.params=lista\ color
+comment1.target=crearArbol(java.util.ArrayList,\ java.lang.String)
+comment1.text=\n\ \ Constructor\ que\ se\ encarga\ en\ recibir\ la\ informacion\ para\ la\ creacion\ del\ arbol\n
+numComments=2

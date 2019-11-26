@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nombres
+comment0.target=Equipo(java.lang.String[])
+comment0.text=\n\ Crea\ un\ equipo\ dado\ el\ nombre\ de\ sus\ miembros\n\ @param\ nombres\ nombres\ de\ los\ miembros\ del\ equipo\n
+comment1.params=
+comment1.target=int\ valorHora()
+comment1.text=\n\ Calcula\ el\ valor\ hora\ de\ un\ equipo\n
+comment2.params=
+comment2.target=int\ valorHoraEstimado()
+comment2.text=\n\ Calcula\ el\ valor\ hora\ estimado\ de\ un\ equipo.\n\ M\u00E1s\ del\ 50%\ del\ equipo\ debe\ tener\ valores\ conocidos\ \n\ El\ valor\ de\ las\ personas\ a\ las\ que\ se\ desconoce\ su\ valor\ es\ el\ promedio\ entre\ el\ m\u00EDnimo\ y\ el\ m\u00E1ximo\ de\ las\ conocidas\n\ @return\ el\ valor\ hora\ del\ equipo\n\ @throws\ EquipoException\ si\ no\ es\ posible\ calcular\ el\ valor\ o\ existe\ una\ persona\ conocida\n
+comment3.params=
+comment3.target=int\ valorHoraAsumido()
+comment3.text=\n\ Calcula\ el\ valor\ hora\ estimado\ de\ un\ equipo.\n\ El\ valor\ hora\ de\ los\ desconocidos\ es\ el\ valor\ de\ la\ primera\ persona\ conocida\n\ El\ valor\ hora\ de\ los\ que\ no\ se\ conoce\ su\ valor\ es\ el\ valor\ de\ la\ \u00FAltima\ persona\ conocida\n\ @return\ el\ valor\ hora\ del\ equipo\n\ @throws\ EquipoException\ si\ no\ es\ posible\ calcular\ el\ valor\ \n
+numComments=4

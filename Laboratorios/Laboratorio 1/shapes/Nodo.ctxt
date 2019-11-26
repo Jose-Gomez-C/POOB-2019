@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Nodo
+comment0.text=\n\ Clase\ publica\ llamada\ Nodo\n
+comment1.params=numero\ color
+comment1.target=Nodo(int,\ java.lang.String)
+comment1.text=\n\ Constructor\ que\ establece\ unas\ caracteristicas\ a\ un\ objeto\ Nodo.\n
+numComments=2

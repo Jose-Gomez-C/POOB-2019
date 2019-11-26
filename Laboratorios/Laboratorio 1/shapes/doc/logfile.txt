@@ -1,0 +1,40 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;C:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\BlueJ\lib\lang-stride.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;G:\POOB\shapes
+-d
+G:\POOB\shapes\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+G:\POOB\shapes\Rectangle.java
+<---- end of javadoc command ---->
+Loading source file G:\POOB\shapes\Rectangle.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_192
+Building tree for all the packages and classes...
+Generating G:\POOB\shapes\doc\Rectangle.html...
+G:\POOB\shapes\Rectangle.java:183: warning - @param argument "color" is not a parameter name.
+G:\POOB\shapes\Rectangle.java:171: warning - @param argument "newWidht" is not a parameter name.
+Generating G:\POOB\shapes\doc\package-frame.html...
+Generating G:\POOB\shapes\doc\package-summary.html...
+Generating G:\POOB\shapes\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating G:\POOB\shapes\doc\allclasses-frame.html...
+Generating G:\POOB\shapes\doc\allclasses-noframe.html...
+Generating G:\POOB\shapes\doc\index.html...
+2 warnings
